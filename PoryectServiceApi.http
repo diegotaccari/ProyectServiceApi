@@ -1,0 +1,6 @@
+@PoryectServiceApi_HostAddress = http://localhost:5070
+
+GET {{PoryectServiceApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
