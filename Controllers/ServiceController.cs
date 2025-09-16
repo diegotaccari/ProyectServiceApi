@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using ProyectServiceShared.Models;
+using PoryectServiceApi.Models;
 using PoryectServiceApi.Server.Data;
-using ProyectServiceClient.Models;
+
 
 namespace PoryectServiceApi.Controllers
 {

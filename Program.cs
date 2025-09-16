@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using PoryectServiceApi.Server.Data;
 
+
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
 {

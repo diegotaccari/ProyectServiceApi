@@ -2,9 +2,7 @@
 Microsoft.EntityFrameworkCore;
 using
 Microsoft.Extensions.Options;
-using ProyectServiceClient.Models;
-using ProyectServiceShared.Models;
-
+using PoryectServiceApi.Models;
 using
 System.Net.Sockets;
 namespace PoryectServiceApi.Server.Data
